@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Ah Esmalteria!",
+    "slug": "ah-esmalteria",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.ahesmalteria.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#5F0A70",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "versionCode": 3
+    },
+    "extra": {
+      "eas": {
+        "projectId": "97290f4c-27ba-4b50-a03e-c503c7547ee2"
+      }
+    },
+    "icon": "./assets/icon.png"
+  }
+}
